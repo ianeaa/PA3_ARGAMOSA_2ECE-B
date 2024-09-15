@@ -72,6 +72,7 @@ cars.loc[[23],['Model','cyl']]
 # use .loc to extract the values under 'cyl' and 'gear' of the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’
 cars.loc[[1,28,18],['Model','cyl','gear']]
 ```
+In Problem 2, for letters b, c, and d, I added test cases where I used .iloc instead of .loc to do the needed process. It can be seen in the compilation file of the codes *(PA3-Codes.ipynb)*.  I prefered to use .loc since I can just type the column name that is needed instead of counting the individual column indexes to find the corresponding one.
 ## How to save the files as .py?
 
 1. Click file
