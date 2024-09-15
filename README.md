@@ -20,9 +20,7 @@ Using the dataframe cars in problem 1, extract the following information using s
 
 &emsp; c. How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
 
-&emsp; d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4Wag’, ‘Ford Pantera L’ and ‘Honda Civic’
-
-&emsp; &nbsp; have.
+&emsp; d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
 
 # Codes *(Outputs can be seen in the PA3-Codes.ipynb file)*
 
